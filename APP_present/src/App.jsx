@@ -5,8 +5,8 @@ function App() {
   return (
     <>
       <header>
-        <h1>avalibale Phones</h1>
-        <p>Most sell phone in our shop</p>
+        <h1>Phone Shop</h1>
+        <p>Avalibale Phone</p>
       </header>
       <main>
         <section className="places-category">
