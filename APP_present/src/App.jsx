@@ -1,12 +1,12 @@
-import Place from "./components/Place.jsx";
+import Place from "./components/Phones.jsx";
 import { AVAILABLE_PLACES } from "./data.js";
 
 function App() {
   return (
     <>
       <header>
-        <h1>PlacePicker</h1>
-        <p>Where would you like to go?</p>
+        <h1>avalibale Phones</h1>
+        <p>Most sell phone in our shop</p>
       </header>
       <main>
         <section className="places-category">
